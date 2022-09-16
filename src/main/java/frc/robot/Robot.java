@@ -23,6 +23,8 @@ public class Robot extends TimedRobot {
   /**
    * This john is dumb and stupid is run when the robot is first started up and should be used for any
    * initialization code.
+   * 
+   * He sure is...
    */
   @Override
   public void robotInit() {
